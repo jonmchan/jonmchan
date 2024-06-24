@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan Chan</h1>
-<h3 align="center">Full Stack Developer leaning more towards backend. I am not a javascript developer, even if my profile might trick you into thinking otherwise. 😂</h3>
+<h3 align="center">Full Stack Developer leaning more towards backend. I've had the privilege of working on many cool projects and products!</h3>
 
 
 - 🧑‍💼 I currently work at [Malwarebytes](https://malwarebytes.com).
